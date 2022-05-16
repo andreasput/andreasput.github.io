@@ -7,7 +7,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
+  address: Leuven Belgium>
     
 
 news: false  # includes a list of news items
